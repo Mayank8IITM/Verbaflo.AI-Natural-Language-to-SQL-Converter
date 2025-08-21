@@ -1,6 +1,6 @@
 # Verbaflo.AI – Natural Language to SQL Web App
 
-This Project I created for Verbaflo.ai <br> It's an AI-powered web application that allows users to **query business data in plain English** and get results directly from the database.  
+I created this Project for Verbaflo.ai <br> It's an AI-powered web application that allows users to **query business data in plain English** and get results directly from the database.  
 This eliminates the need for SQL expertise, empowering business owners and analysts to extract insights effortlessly.  
 
 ---
