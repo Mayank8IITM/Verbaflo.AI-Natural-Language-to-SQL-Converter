@@ -89,7 +89,7 @@ DESC LIMIT 10
 
 ## 🌐 Live Demo
 You can try the deployed version here:  
-👉 [Verbaflo.AI – Live App](your-streamlit-deployment-link)
+👉 [Verbaflo.AI – Live App](https://verbafloai-mayank.streamlit.app/)
 
 ---
 
