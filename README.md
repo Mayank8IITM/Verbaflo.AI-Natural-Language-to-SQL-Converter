@@ -83,13 +83,7 @@ GROUP BY T1.user_id
 ORDER BY SUM(T2.amount) 
 DESC LIMIT 10
 ```
-✅ Results are displayed in an interactive table in the Streamlit app.
-
----
-
-## 🌐 Live Demo
-You can try the deployed version here:  
-👉 [Verbaflo.AI – Live App](https://verbafloai-mayank.streamlit.app/)
+Results are displayed in an interactive table in the Streamlit app.
 
 ---
 
